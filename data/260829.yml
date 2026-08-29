@@ -1,0 +1,59 @@
+about:
+  description: The strictest and most opinionated python linter ever!
+  license: MIT
+  homepage: https://wemake-python-styleguide.rtfd.io
+  head: c580fc3
+  archived: false
+  latestVersion: 1.8.0
+  collectedAt: 2026-08-29T07:12:49Z
+timeline:
+  created: 2018-03-09
+  lastCommit: 2026-08-28
+  lastRelease: 2026-08-22
+popularity:
+  star: 2895
+  watcher: 27
+  fork: 429
+  release: 70
+  contributor: 227
+  pullRequest: 372
+  issue: 1195
+language:
+  Python: 1336994
+  Shell: 2490
+  Dockerfile: 1362
+  Makefile: 1047
+totalLine: 1341893
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 2
+    mergedPR: 29
+    openPR: 0
+    closedIssue: 2
+    openIssue: 0
+    commit: 35
+  last90d:
+    since: 2026-05-31
+    release: 3
+    mergedPR: 103
+    openPR: 1
+    closedIssue: 8
+    openIssue: 3
+    commit: 109
+  last180d:
+    since: 2026-03-02
+    release: 4
+    mergedPR: 133
+    openPR: 2
+    closedIssue: 12
+    openIssue: 4
+    commit: 142
+  last360d:
+    since: 2025-09-03
+    release: 7
+    mergedPR: 199
+    openPR: 2
+    closedIssue: 32
+    openIssue: 4
+    commit: 222
