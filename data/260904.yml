@@ -7,7 +7,7 @@ about:
   head: 9a104c4
   archived: false
   latestVersion: 1.8.0
-  collectedAt: 2026-09-04T19:46:42Z
+  collectedAt: 2026-09-04T20:53:23Z
 timeline:
   created: 2018-03-09
   lastCommit: 2026-09-04
@@ -83,6 +83,79 @@ total:
   openIssue: 12
   commit: 3185
 ---
+path: /home/runner/.x-repo/github.com/wemake-services/wemake-python-styleguide
+collectedAt: 2026-09-04T20:53:25Z
+loc:
+  Python:
+    code: 47475
+    comments: 692
+    blanks: 7408
+    files: 415
+  ReStructuredText:
+    code: 1066
+    comments: 0
+    blanks: 504
+    files: 38
+  Toml:
+    code: 246
+    comments: 25
+    blanks: 40
+    files: 1
+  Svg:
+    code: 85
+    comments: 1
+    blanks: 1
+    files: 2
+  Sh:
+    code: 48
+    comments: 17
+    blanks: 8
+    files: 1
+  Makefile:
+    code: 41
+    comments: 6
+    blanks: 10
+    files: 2
+  Yaml:
+    code: 38
+    comments: 4
+    blanks: 2
+    files: 1
+  ForgeConfig:
+    code: 25
+    comments: 26
+    blanks: 9
+    files: 2
+  Dockerfile:
+    code: 13
+    comments: 19
+    blanks: 6
+    files: 1
+  Jupyter:
+    code: 7
+    comments: 2
+    blanks: 0
+    files: 1
+  Json:
+    code: 4
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 1742
+    blanks: 632
+    files: 3
+  Text:
+    code: 0
+    comments: 461
+    blanks: 0
+    files: 1
+total:
+  code: 49075
+  comments: 2997
+  blanks: 8620
+  files: 469
 ---
 date: "2026-08-24"
 repo:
