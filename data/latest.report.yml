@@ -7,7 +7,7 @@ about:
   latestVersion: "1.8.0"
   latestRelease: "1.8.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T18:23:25Z
+  collectedAt: 2026-09-10T23:37:33Z
 timeline:
   created: 2018-03-09
   lastCommit: 2026-09-10
@@ -20,7 +20,7 @@ popularity:
   fork: 430
   release: 70
   contributor: 231
-  pullRequest: 2599
+  pullRequest: 2600
   issue: 1202
 language:
   Python: 1339400
@@ -33,7 +33,7 @@ recent:
     since: 2026-08-11
     release: 1
     mergedPR: 37
-    openPR: 0
+    openPR: 1
     closedIssue: 7
     openIssue: 2
     commit: 41
@@ -41,7 +41,7 @@ recent:
     since: 2026-07-12
     release: 3
     mergedPR: 70
-    openPR: 0
+    openPR: 1
     closedIssue: 9
     openIssue: 2
     commit: 73
@@ -49,7 +49,7 @@ recent:
     since: 2026-06-12
     release: 3
     mergedPR: 112
-    openPR: 1
+    openPR: 2
     closedIssue: 13
     openIssue: 5
     commit: 118
@@ -57,7 +57,7 @@ recent:
     since: 2026-03-14
     release: 4
     mergedPR: 148
-    openPR: 2
+    openPR: 3
     closedIssue: 17
     openIssue: 6
     commit: 155
@@ -65,7 +65,7 @@ recent:
     since: 2025-09-15
     release: 7
     mergedPR: 210
-    openPR: 2
+    openPR: 3
     closedIssue: 34
     openIssue: 6
     commit: 233
@@ -73,20 +73,20 @@ recent:
     since: 2024-09-20
     release: 12
     mergedPR: 596
-    openPR: 2
+    openPR: 3
     closedIssue: 102
     openIssue: 6
     commit: 647
 total:
   release: 70
   mergedPR: 2227
-  openPR: 2
+  openPR: 3
   closedIssue: 1189
   openIssue: 13
   commit: 3193
 ---
 path: /home/runner/.x-repo/github.com/wemake-services/wemake-python-styleguide
-collectedAt: 2026-09-10T18:23:32Z
+collectedAt: 2026-09-10T23:37:36Z
 loc:
   Python:
     code: 47572
