@@ -7,7 +7,7 @@ about:
   latestVersion: "1.8.0"
   latestRelease: "1.8.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T06:11:49Z
+  collectedAt: 2026-09-11T18:45:57Z
 timeline:
   created: 2018-03-09
   lastCommit: 2026-09-11
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-08-22
   lastPrerelease: 
 popularity:
-  star: 2898
+  star: 2899
   watcher: 27
   fork: 430
   release: 70
@@ -86,7 +86,7 @@ total:
   commit: 3194
 ---
 path: /home/runner/.x-repo/github.com/wemake-services/wemake-python-styleguide
-collectedAt: 2026-09-11T06:11:52Z
+collectedAt: 2026-09-11T18:46:06Z
 loc:
   Python:
     code: 47572
