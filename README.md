@@ -4,7 +4,7 @@
 
 The strictest and most opinionated python linter ever!
 
-![wemake-python-styleguide](https://repo.x-cmd.io/wemake-python-styleguide.svg)
+[![x-cmd/install — wemake-python-styleguide Code Quality Monitoring Repo Card](https://repo.x-cmd.io/wemake-python-styleguide.svg)](https://x-cmd.com/install/wemake-python-styleguide)
 
 ## Install
 
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `1.8.1` (2026-09-12)
-- **Last commit**: 2026-09-13
+- **Last commit**: 2026-09-19
 
 ## Popularity
 
-- **Stars**: 2,905 · **Forks**: 430 · **Open issues**: 1,203 · **Contributors**: 231
+- **Stars**: 2,906 · **Forks**: 430 · **Open issues**: 1,203 · **Contributors**: 231
 
 ## Totals (cumulative)
 
-- **Releases**: 71 · **Merged PRs**: 2232 · **Open PRs**: 2 · **Closed issues**: 1191 · **Open issues**: 12 · **Commits**: 3199
+- **Releases**: 71 · **Merged PRs**: 2233 · **Open PRs**: 2 · **Closed issues**: 1191 · **Open issues**: 12 · **Commits**: 3200
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 2 | 34 | 0 | 8 | 1 | 40 |
-| last60d | 2026-07-20 | 4 | 61 | 0 | 11 | 1 | 69 |
-| 90d | 2026-06-20 | 4 | 110 | 1 | 14 | 4 | 116 |
-| last180d | 2026-03-22 | 5 | 149 | 2 | 18 | 5 | 157 |
-| 360d | 2025-09-23 | 8 | 212 | 2 | 35 | 5 | 237 |
-| last720d | 2024-09-28 | 13 | 601 | 2 | 102 | 5 | 653 |
+| 30d | 2026-08-21 | 2 | 30 | 0 | 7 | 1 | 41 |
+| last60d | 2026-07-22 | 4 | 61 | 0 | 11 | 1 | 70 |
+| 90d | 2026-06-22 | 4 | 107 | 1 | 14 | 4 | 117 |
+| last180d | 2026-03-24 | 5 | 149 | 2 | 18 | 5 | 158 |
+| 360d | 2025-09-25 | 8 | 213 | 2 | 35 | 5 | 238 |
+| last720d | 2024-09-30 | 13 | 601 | 2 | 102 | 5 | 652 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for wemake-python-styleguide lives in the [x-cmd/install](https
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:28:37Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:24:17Z._
