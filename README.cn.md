@@ -4,7 +4,7 @@
 
 The strictest and most opinionated python linter ever!
 
-[![x-cmd/install — wemake-python-styleguide Code Quality Monitoring Repo Card](https://repo.x-cmd.io/wemake-python-styleguide.svg?lang=zh)](https://x-cmd.com/install/wemake-python-styleguide)
+[![x-cmd/install — wemake-python-styleguide Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/wemake-python-styleguide.svg?lang=zh)](https://x-cmd.com/install/wemake-python-styleguide)
 
 ## 安装
 
@@ -26,7 +26,7 @@ x install wemake-python-styleguide
 
 ## OpenSSF Scorecard 评分
 
-总评分: **6 / 10**
+总评分: **6.1 / 10**
 
 评分最低的几项:
 
@@ -43,26 +43,26 @@ x install wemake-python-styleguide
 ## 发布
 
 - **最新版本**: `1.8.1` (2026-09-12)
-- **最近提交**: 2026-09-21
+- **最近提交**: 2026-09-23
 
 ## 流行度
 
-- **Star**: 2,908 · **Fork**: 430 · **开放 issue**: 1,203 · **贡献者**: 231
+- **Star**: 2,909 · **Fork**: 430 · **开放 issue**: 1,203 · **贡献者**: 231
 
 ## 累计统计
 
-- **发布数**: 71 · **已合并 PR**: 2236 · **开放 PR**: 2 · **已关闭 issue**: 1191 · **开放 issue**: 12 · **提交数**: 3203
+- **发布数**: 71 · **已合并 PR**: 2237 · **开放 PR**: 2 · **已关闭 issue**: 1191 · **开放 issue**: 12 · **提交数**: 3204
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 29 | 0 | 7 | 1 | 27 |
-| last60d | 2026-07-24 | 4 | 61 | 0 | 11 | 1 | 61 |
-| 90d | 2026-06-24 | 4 | 108 | 1 | 14 | 4 | 112 |
-| last180d | 2026-03-26 | 5 | 152 | 2 | 18 | 5 | 160 |
-| 360d | 2025-09-27 | 8 | 215 | 2 | 35 | 5 | 238 |
-| last720d | 2024-10-02 | 13 | 604 | 2 | 100 | 5 | 654 |
+| 30d | 2026-08-24 | 1 | 29 | 0 | 7 | 1 | 28 |
+| last60d | 2026-07-25 | 4 | 60 | 0 | 11 | 1 | 62 |
+| 90d | 2026-06-25 | 4 | 108 | 1 | 14 | 4 | 113 |
+| last180d | 2026-03-27 | 5 | 153 | 2 | 18 | 5 | 161 |
+| 360d | 2025-09-28 | 8 | 216 | 2 | 35 | 5 | 239 |
+| last720d | 2024-10-03 | 13 | 603 | 2 | 100 | 5 | 655 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ wemake-python-styleguide 的安装元数据由 [x-cmd/install](https://github.co
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T06:36:29Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T06:41:46Z._

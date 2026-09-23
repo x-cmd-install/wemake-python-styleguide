@@ -4,7 +4,7 @@
 
 The strictest and most opinionated python linter ever!
 
-[![x-cmd/install — wemake-python-styleguide Code Quality Monitoring Repo Card](https://repo.x-cmd.io/wemake-python-styleguide.svg)](https://x-cmd.com/install/wemake-python-styleguide)
+[![x-cmd/install — wemake-python-styleguide Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/wemake-python-styleguide.svg)](https://x-cmd.com/install/wemake-python-styleguide)
 
 ## Install
 
@@ -26,7 +26,7 @@ Total: **49,583** lines of code across **458** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **6 / 10**
+Overall score: **6.1 / 10**
 
 Lowest-scoring checks:
 
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `1.8.1` (2026-09-12)
-- **Last commit**: 2026-09-21
+- **Last commit**: 2026-09-23
 
 ## Popularity
 
-- **Stars**: 2,908 · **Forks**: 430 · **Open issues**: 1,203 · **Contributors**: 231
+- **Stars**: 2,909 · **Forks**: 430 · **Open issues**: 1,203 · **Contributors**: 231
 
 ## Totals (cumulative)
 
-- **Releases**: 71 · **Merged PRs**: 2236 · **Open PRs**: 2 · **Closed issues**: 1191 · **Open issues**: 12 · **Commits**: 3203
+- **Releases**: 71 · **Merged PRs**: 2237 · **Open PRs**: 2 · **Closed issues**: 1191 · **Open issues**: 12 · **Commits**: 3204
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 29 | 0 | 7 | 1 | 27 |
-| last60d | 2026-07-24 | 4 | 61 | 0 | 11 | 1 | 61 |
-| 90d | 2026-06-24 | 4 | 108 | 1 | 14 | 4 | 112 |
-| last180d | 2026-03-26 | 5 | 152 | 2 | 18 | 5 | 160 |
-| 360d | 2025-09-27 | 8 | 215 | 2 | 35 | 5 | 238 |
-| last720d | 2024-10-02 | 13 | 604 | 2 | 100 | 5 | 654 |
+| 30d | 2026-08-24 | 1 | 29 | 0 | 7 | 1 | 28 |
+| last60d | 2026-07-25 | 4 | 60 | 0 | 11 | 1 | 62 |
+| 90d | 2026-06-25 | 4 | 108 | 1 | 14 | 4 | 113 |
+| last180d | 2026-03-27 | 5 | 153 | 2 | 18 | 5 | 161 |
+| 360d | 2025-09-28 | 8 | 216 | 2 | 35 | 5 | 239 |
+| last720d | 2024-10-03 | 13 | 603 | 2 | 100 | 5 | 655 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for wemake-python-styleguide lives in the [x-cmd/install](https
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:36:29Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:41:45Z._
