@@ -14,11 +14,11 @@ x install wemake-python-styleguide
 
 ## Code insight
 
-Total: **49,815** lines of code across **458** files in the top 5 languages.
+Total: **50,035** lines of code across **458** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 48,236 | 717 | 7,507 | 416 |
+| Python | 48,456 | 558 | 7,508 | 416 |
 | ReStructuredText | 1,066 | 0 | 504 | 38 |
 | Toml | 252 | 26 | 30 | 1 |
 | Svg | 85 | 1 | 1 | 2 |
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `1.8.1` (2026-09-12)
-- **Last commit**: 2026-10-05
+- **Last commit**: 2026-10-06
 
 ## Popularity
 
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 71 · **Merged PRs**: 2253 · **Open PRs**: 3 · **Closed issues**: 1195 · **Open issues**: 12 · **Commits**: 3220
+- **Releases**: 71 · **Merged PRs**: 2256 · **Open PRs**: 3 · **Closed issues**: 1196 · **Open issues**: 11 · **Commits**: 3223
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 1 | 34 | 1 | 6 | 1 | 27 |
-| last60d | 2026-08-06 | 2 | 66 | 1 | 13 | 1 | 70 |
-| 90d | 2026-07-07 | 4 | 101 | 1 | 15 | 2 | 104 |
-| last180d | 2026-04-08 | 5 | 165 | 3 | 21 | 5 | 173 |
-| 360d | 2025-10-10 | 8 | 226 | 3 | 38 | 5 | 240 |
-| last720d | 2024-10-15 | 13 | 609 | 3 | 103 | 5 | 661 |
+| 30d | 2026-09-06 | 1 | 37 | 1 | 7 | 0 | 30 |
+| last60d | 2026-08-07 | 2 | 69 | 1 | 14 | 0 | 73 |
+| 90d | 2026-07-08 | 4 | 103 | 1 | 16 | 1 | 107 |
+| last180d | 2026-04-09 | 5 | 168 | 3 | 22 | 4 | 176 |
+| 360d | 2025-10-11 | 8 | 229 | 3 | 39 | 4 | 243 |
+| last720d | 2024-10-16 | 13 | 612 | 3 | 104 | 4 | 662 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for wemake-python-styleguide lives in the [x-cmd/install](https
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261005.yml` · 2026-10-05T07:03:09Z._
+_Snapshot: `data/card/261006.yml` · 2026-10-06T07:51:39Z._
