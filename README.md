@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-09 | 1 | 36 | 1 | 8 | 2 | 35 |
-| last60d | 2026-08-10 | 2 | 72 | 1 | 15 | 2 | 78 |
-| 90d | 2026-07-11 | 4 | 105 | 1 | 17 | 2 | 112 |
-| last180d | 2026-04-12 | 5 | 173 | 3 | 23 | 6 | 181 |
-| 360d | 2025-10-14 | 8 | 231 | 3 | 40 | 6 | 248 |
-| last720d | 2024-10-19 | 13 | 616 | 3 | 105 | 6 | 666 |
+| 30d | 2026-09-10 | 1 | 33 | 1 | 6 | 2 | 35 |
+| last60d | 2026-08-11 | 2 | 71 | 1 | 15 | 2 | 78 |
+| 90d | 2026-07-12 | 4 | 104 | 1 | 17 | 2 | 112 |
+| last180d | 2026-04-13 | 5 | 172 | 3 | 23 | 6 | 181 |
+| 360d | 2025-10-15 | 8 | 231 | 3 | 40 | 6 | 248 |
+| last720d | 2024-10-20 | 13 | 616 | 3 | 105 | 6 | 666 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for wemake-python-styleguide lives in the [x-cmd/install](https
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261009.yml` · 2026-10-09T07:21:05Z._
+_Snapshot: `data/card/261010.yml` · 2026-10-10T06:56:27Z._
