@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 71 · **Merged PRs**: 2270 · **Open PRs**: 3 · **Closed issues**: 1198 · **Open issues**: 12 · **Commits**: 3237
+- **Releases**: 71 · **Merged PRs**: 2270 · **Open PRs**: 4 · **Closed issues**: 1198 · **Open issues**: 12 · **Commits**: 3237
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-17 | 0 | 38 | 1 | 6 | 1 | 38 |
-| last60d | 2026-08-18 | 2 | 72 | 1 | 15 | 1 | 79 |
-| 90d | 2026-07-19 | 4 | 102 | 1 | 18 | 1 | 110 |
-| last180d | 2026-04-20 | 5 | 180 | 3 | 23 | 5 | 189 |
-| 360d | 2025-10-22 | 8 | 237 | 3 | 40 | 5 | 254 |
-| last720d | 2024-10-27 | 13 | 621 | 3 | 106 | 5 | 671 |
+| 30d | 2026-09-18 | 0 | 38 | 2 | 6 | 1 | 30 |
+| last60d | 2026-08-19 | 2 | 72 | 2 | 15 | 1 | 61 |
+| 90d | 2026-07-20 | 4 | 99 | 2 | 18 | 1 | 99 |
+| last180d | 2026-04-21 | 5 | 180 | 4 | 23 | 5 | 183 |
+| 360d | 2025-10-23 | 8 | 237 | 4 | 40 | 5 | 253 |
+| last720d | 2024-10-28 | 13 | 619 | 4 | 106 | 5 | 671 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for wemake-python-styleguide lives in the [x-cmd/install](https
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261017.yml` · 2026-10-17T05:29:34Z._
+_Snapshot: `data/card/261018.yml` · 2026-10-18T05:37:35Z._
