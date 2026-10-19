@@ -14,12 +14,12 @@ x install wemake-python-styleguide
 
 ## Code insight
 
-Total: **50,038** lines of code across **458** files in the top 5 languages.
+Total: **50,078** lines of code across **458** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 48,458 | 557 | 7,508 | 416 |
-| ReStructuredText | 1,066 | 0 | 504 | 38 |
+| Python | 48,489 | 557 | 7,513 | 416 |
+| ReStructuredText | 1,075 | 0 | 503 | 38 |
 | Toml | 253 | 26 | 30 | 1 |
 | Svg | 85 | 1 | 1 | 2 |
 | Sh | 48 | 17 | 8 | 1 |
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `1.8.1` (2026-09-12)
-- **Last commit**: 2026-10-14
+- **Last commit**: 2026-10-18
 
 ## Popularity
 
-- **Stars**: 2,935 · **Forks**: 439 · **Open issues**: 1,210 · **Contributors**: 235
+- **Stars**: 2,936 · **Forks**: 439 · **Open issues**: 1,210 · **Contributors**: 235
 
 ## Totals (cumulative)
 
-- **Releases**: 71 · **Merged PRs**: 2270 · **Open PRs**: 4 · **Closed issues**: 1198 · **Open issues**: 12 · **Commits**: 3237
+- **Releases**: 71 · **Merged PRs**: 2271 · **Open PRs**: 4 · **Closed issues**: 1198 · **Open issues**: 12 · **Commits**: 3238
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-18 | 0 | 38 | 2 | 6 | 1 | 30 |
-| last60d | 2026-08-19 | 2 | 72 | 2 | 15 | 1 | 61 |
-| 90d | 2026-07-20 | 4 | 99 | 2 | 18 | 1 | 99 |
-| last180d | 2026-04-21 | 5 | 180 | 4 | 23 | 5 | 183 |
-| 360d | 2025-10-23 | 8 | 237 | 4 | 40 | 5 | 253 |
-| last720d | 2024-10-28 | 13 | 619 | 4 | 106 | 5 | 671 |
+| 30d | 2026-09-19 | 0 | 38 | 2 | 6 | 1 | 31 |
+| last60d | 2026-08-20 | 2 | 72 | 2 | 14 | 1 | 62 |
+| 90d | 2026-07-21 | 4 | 100 | 2 | 18 | 1 | 100 |
+| last180d | 2026-04-22 | 5 | 180 | 4 | 23 | 5 | 184 |
+| 360d | 2025-10-24 | 8 | 238 | 4 | 40 | 5 | 254 |
+| last720d | 2024-10-29 | 13 | 620 | 4 | 106 | 5 | 670 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for wemake-python-styleguide lives in the [x-cmd/install](https
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261018.yml` · 2026-10-18T05:37:35Z._
+_Snapshot: `data/card/261019.yml` · 2026-10-19T05:50:48Z._
