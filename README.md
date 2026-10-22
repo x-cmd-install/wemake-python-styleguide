@@ -32,7 +32,7 @@ Lowest-scoring checks:
 
 - **Packaging** (-1/10) — packaging workflow not detected
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Fuzzing** (0/10) — project is not fuzzed
+- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 
 ## Source
 
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,937 · **Forks**: 439 · **Open issues**: 1,210 · **Contributors**: 235
+- **Stars**: 2,938 · **Forks**: 439 · **Open issues**: 1,210 · **Contributors**: 235
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 0 | 37 | 0 | 6 | 1 | 33 |
-| last60d | 2026-08-22 | 2 | 66 | 0 | 14 | 1 | 64 |
-| 90d | 2026-07-23 | 4 | 101 | 0 | 18 | 1 | 102 |
-| last180d | 2026-04-24 | 5 | 181 | 1 | 24 | 4 | 186 |
-| 360d | 2025-10-26 | 8 | 240 | 1 | 41 | 4 | 256 |
-| last720d | 2024-10-31 | 13 | 620 | 1 | 107 | 4 | 670 |
+| 30d | 2026-09-22 | 0 | 37 | 0 | 6 | 1 | 33 |
+| last60d | 2026-08-23 | 1 | 66 | 0 | 14 | 1 | 64 |
+| 90d | 2026-07-24 | 4 | 98 | 0 | 18 | 1 | 102 |
+| last180d | 2026-04-25 | 5 | 181 | 1 | 23 | 4 | 186 |
+| 360d | 2025-10-27 | 8 | 239 | 1 | 41 | 4 | 256 |
+| last720d | 2024-11-01 | 13 | 619 | 1 | 107 | 4 | 670 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for wemake-python-styleguide lives in the [x-cmd/install](https
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T06:01:04Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T06:06:51Z._
