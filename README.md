@@ -14,13 +14,13 @@ x install wemake-python-styleguide
 
 ## Code insight
 
-Total: **50,078** lines of code across **458** files in the top 5 languages.
+Total: **50,225** lines of code across **458** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 48,489 | 557 | 7,513 | 416 |
+| Python | 48,639 | 557 | 7,517 | 416 |
 | ReStructuredText | 1,075 | 0 | 503 | 38 |
-| Toml | 253 | 26 | 30 | 1 |
+| Toml | 250 | 26 | 30 | 1 |
 | Svg | 85 | 1 | 1 | 2 |
 | Sh | 48 | 17 | 8 | 1 |
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,940 · **Forks**: 439 · **Open issues**: 1,210 · **Contributors**: 235
+- **Stars**: 2,940 · **Forks**: 439 · **Open issues**: 1,211 · **Contributors**: 235
 
 ## Totals (cumulative)
 
-- **Releases**: 71 · **Merged PRs**: 2274 · **Open PRs**: 1 · **Closed issues**: 1199 · **Open issues**: 11 · **Commits**: 3241
+- **Releases**: 71 · **Merged PRs**: 2276 · **Open PRs**: 1 · **Closed issues**: 1199 · **Open issues**: 12 · **Commits**: 3243
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 0 | 37 | 0 | 6 | 1 | 34 |
-| last60d | 2026-08-24 | 1 | 66 | 0 | 14 | 1 | 65 |
-| 90d | 2026-07-25 | 4 | 97 | 0 | 18 | 1 | 103 |
-| last180d | 2026-04-26 | 5 | 182 | 1 | 23 | 4 | 187 |
-| 360d | 2025-10-28 | 8 | 240 | 1 | 41 | 4 | 257 |
-| last720d | 2024-11-02 | 13 | 619 | 1 | 107 | 4 | 670 |
+| 30d | 2026-09-24 | 0 | 36 | 1 | 6 | 2 | 36 |
+| last60d | 2026-08-25 | 1 | 66 | 1 | 14 | 2 | 67 |
+| 90d | 2026-07-26 | 4 | 98 | 1 | 18 | 2 | 105 |
+| last180d | 2026-04-27 | 5 | 182 | 1 | 23 | 5 | 189 |
+| 360d | 2025-10-29 | 8 | 242 | 1 | 41 | 5 | 259 |
+| last720d | 2024-11-03 | 13 | 621 | 1 | 107 | 5 | 671 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for wemake-python-styleguide lives in the [x-cmd/install](https
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T06:03:28Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T05:50:24Z._
