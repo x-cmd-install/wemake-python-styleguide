@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,940 · **Forks**: 439 · **Open issues**: 1,211 · **Contributors**: 235
+- **Stars**: 2,941 · **Forks**: 439 · **Open issues**: 1,211 · **Contributors**: 235
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 0 | 40 | 0 | 4 | 1 | 34 |
-| last60d | 2026-08-29 | 1 | 71 | 0 | 15 | 1 | 68 |
-| 90d | 2026-07-30 | 3 | 100 | 0 | 17 | 1 | 104 |
-| last180d | 2026-05-01 | 4 | 188 | 0 | 24 | 4 | 194 |
-| 360d | 2025-11-02 | 8 | 247 | 0 | 41 | 4 | 261 |
-| last720d | 2024-11-07 | 13 | 626 | 0 | 107 | 4 | 676 |
+| 30d | 2026-09-29 | 0 | 39 | 0 | 4 | 1 | 34 |
+| last60d | 2026-08-30 | 1 | 70 | 0 | 13 | 1 | 68 |
+| 90d | 2026-07-31 | 3 | 97 | 0 | 17 | 1 | 104 |
+| last180d | 2026-05-02 | 4 | 188 | 0 | 24 | 4 | 194 |
+| 360d | 2025-11-03 | 8 | 246 | 0 | 41 | 4 | 261 |
+| last720d | 2024-11-08 | 13 | 625 | 0 | 107 | 4 | 676 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for wemake-python-styleguide lives in the [x-cmd/install](https
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261028.yml` · 2026-10-28T07:03:35Z._
+_Snapshot: `data/card/261029.yml` · 2026-10-29T07:07:12Z._
