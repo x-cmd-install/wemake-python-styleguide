@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `1.8.1` (2026-09-12)
-- **Last commit**: 2026-11-01
+- **Last commit**: 2026-11-03
 
 ## Popularity
 
-- **Stars**: 2,941 · **Forks**: 439 · **Open issues**: 1,212 · **Contributors**: 235
+- **Stars**: 2,942 · **Forks**: 439 · **Open issues**: 1,212 · **Contributors**: 235
 
 ## Totals (cumulative)
 
-- **Releases**: 71 · **Merged PRs**: 2284 · **Open PRs**: 0 · **Closed issues**: 1200 · **Open issues**: 12 · **Commits**: 3251
+- **Releases**: 71 · **Merged PRs**: 2286 · **Open PRs**: 0 · **Closed issues**: 1200 · **Open issues**: 12 · **Commits**: 3253
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 0 | 32 | 0 | 3 | 2 | 25 |
-| last60d | 2026-09-03 | 1 | 66 | 0 | 10 | 2 | 62 |
-| 90d | 2026-08-04 | 2 | 98 | 0 | 17 | 2 | 103 |
-| last180d | 2026-05-06 | 4 | 189 | 0 | 24 | 5 | 196 |
-| 360d | 2025-11-07 | 8 | 247 | 0 | 41 | 5 | 263 |
-| last720d | 2024-11-12 | 13 | 624 | 0 | 106 | 5 | 675 |
+| 30d | 2026-10-04 | 0 | 34 | 0 | 3 | 2 | 27 |
+| last60d | 2026-09-04 | 1 | 67 | 0 | 10 | 2 | 64 |
+| 90d | 2026-08-05 | 2 | 99 | 0 | 17 | 2 | 105 |
+| last180d | 2026-05-07 | 4 | 191 | 0 | 24 | 5 | 198 |
+| 360d | 2025-11-08 | 8 | 249 | 0 | 41 | 5 | 265 |
+| last720d | 2024-11-13 | 13 | 625 | 0 | 106 | 5 | 676 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for wemake-python-styleguide lives in the [x-cmd/install](https
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T07:31:02Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T08:30:14Z._
