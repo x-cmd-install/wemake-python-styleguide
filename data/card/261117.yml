@@ -1,0 +1,163 @@
+about:
+  description: "The strictest and most opinionated python linter ever!"
+  license: MIT
+  homepage: https://wemake-python-styleguide.rtfd.io
+  head: 0c22607
+  archived: false
+  latestVersion: "1.8.1"
+  latestRelease: "1.8.1"
+  latestPrerelease: ""
+  collectedAt: 2026-11-17T09:37:49Z
+timeline:
+  created: 2018-03-09
+  lastCommit: 2026-11-16
+  lastVersion: 2026-09-12
+  lastRelease: 2026-09-12
+  lastPrerelease: 
+popularity:
+  star: 2950
+  watcher: 28
+  fork: 440
+  release: 71
+  contributor: 236
+  pullRequest: 2671
+  issue: 1214
+language:
+  Python: 1368268
+  Shell: 2490
+  Dockerfile: 1362
+  Makefile: 1047
+totalBytes: 1373167
+recent:
+  last30d:
+    since: 2026-10-18
+    release: 0
+    mergedPR: 25
+    openPR: 1
+    closedIssue: 2
+    openIssue: 2
+    commit: 23
+  last60d:
+    since: 2026-09-18
+    release: 0
+    mergedPR: 64
+    openPR: 1
+    closedIssue: 8
+    openIssue: 3
+    commit: 60
+  last90d:
+    since: 2026-08-19
+    release: 2
+    mergedPR: 98
+    openPR: 1
+    closedIssue: 17
+    openIssue: 3
+    commit: 90
+  last180d:
+    since: 2026-05-21
+    release: 4
+    mergedPR: 199
+    openPR: 1
+    closedIssue: 25
+    openIssue: 5
+    commit: 201
+  last360d:
+    since: 2025-11-22
+    release: 8
+    mergedPR: 255
+    openPR: 1
+    closedIssue: 42
+    openIssue: 6
+    commit: 270
+  last720d:
+    since: 2024-11-27
+    release: 13
+    mergedPR: 631
+    openPR: 1
+    closedIssue: 107
+    openIssue: 6
+    commit: 681
+total:
+  release: 71
+  mergedPR: 2296
+  openPR: 1
+  closedIssue: 1201
+  openIssue: 13
+  commit: 3263
+---
+path: /home/runner/.x-repo/github.com/wemake-services/wemake-python-styleguide
+collectedAt: 2026-11-17T09:37:52Z
+loc:
+  Python:
+    code: 48700
+    comments: 555
+    blanks: 7525
+    files: 416
+  ReStructuredText:
+    code: 1075
+    comments: 0
+    blanks: 503
+    files: 38
+  Toml:
+    code: 250
+    comments: 26
+    blanks: 30
+    files: 1
+  Svg:
+    code: 85
+    comments: 1
+    blanks: 1
+    files: 2
+  Sh:
+    code: 48
+    comments: 17
+    blanks: 8
+    files: 1
+  Makefile:
+    code: 41
+    comments: 6
+    blanks: 10
+    files: 2
+  Yaml:
+    code: 38
+    comments: 4
+    blanks: 2
+    files: 1
+  ForgeConfig:
+    code: 25
+    comments: 26
+    blanks: 9
+    files: 2
+  Dockerfile:
+    code: 13
+    comments: 19
+    blanks: 6
+    files: 1
+  Jupyter:
+    code: 7
+    comments: 2
+    blanks: 0
+    files: 1
+  Json:
+    code: 4
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 1765
+    blanks: 640
+    files: 3
+  Text:
+    code: 0
+    comments: 461
+    blanks: 0
+    files: 1
+total:
+  code: 50313
+  comments: 2884
+  blanks: 8734
+  files: 470
+---
+
+---
