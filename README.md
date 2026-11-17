@@ -24,16 +24,6 @@ Total: **50,286** lines of code across **458** files in the top 5 languages.
 | Svg | 85 | 1 | 1 | 2 |
 | Sh | 48 | 17 | 8 | 1 |
 
-## OpenSSF Scorecard
-
-Overall score: **6.4 / 10**
-
-Lowest-scoring checks:
-
-- **Packaging** (-1/10) — packaging workflow not detected
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
-
 ## Source
 
 - **Upstream**: <https://github.com/wemake-services/wemake-python-styleguide>
@@ -43,26 +33,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `1.8.1` (2026-09-12)
-- **Last commit**: 2026-11-15
+- **Last commit**: 2026-11-16
 
 ## Popularity
 
-- **Stars**: 2,948 · **Forks**: 439 · **Open issues**: 1,212 · **Contributors**: 236
+- **Stars**: 2,950 · **Forks**: 440 · **Open issues**: 1,214 · **Contributors**: 236
 
 ## Totals (cumulative)
 
-- **Releases**: 71 · **Merged PRs**: 2295 · **Open PRs**: 0 · **Closed issues**: 1201 · **Open issues**: 11 · **Commits**: 3262
+- **Releases**: 71 · **Merged PRs**: 2296 · **Open PRs**: 1 · **Closed issues**: 1201 · **Open issues**: 13 · **Commits**: 3263
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 24 | 0 | 2 | 0 | 22 |
-| last60d | 2026-09-17 | 0 | 63 | 0 | 8 | 1 | 59 |
-| 90d | 2026-08-18 | 2 | 97 | 0 | 17 | 1 | 89 |
-| last180d | 2026-05-20 | 4 | 199 | 0 | 25 | 3 | 200 |
-| 360d | 2025-11-21 | 8 | 254 | 0 | 42 | 4 | 269 |
-| last720d | 2024-11-26 | 13 | 630 | 0 | 107 | 4 | 680 |
+| 30d | 2026-10-18 | 0 | 25 | 1 | 2 | 2 | 23 |
+| last60d | 2026-09-18 | 0 | 64 | 1 | 8 | 3 | 60 |
+| 90d | 2026-08-19 | 2 | 98 | 1 | 17 | 3 | 90 |
+| last180d | 2026-05-21 | 4 | 199 | 1 | 25 | 5 | 201 |
+| 360d | 2025-11-22 | 8 | 255 | 1 | 42 | 6 | 270 |
+| last720d | 2024-11-27 | 13 | 631 | 1 | 107 | 6 | 681 |
 
 ## Improve this data
 
@@ -73,4 +63,4 @@ Install metadata for wemake-python-styleguide lives in the [x-cmd/install](https
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T08:44:13Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T09:37:57Z._
