@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/wemake-services/wemake-python-styleguide/releases/387488814",
-  "assets_url": "https://api.github.com/repos/wemake-services/wemake-python-styleguide/releases/387488814/assets",
-  "upload_url": "https://uploads.github.com/repos/wemake-services/wemake-python-styleguide/releases/387488814/assets{?name,label}",
-  "html_url": "https://github.com/wemake-services/wemake-python-styleguide/releases/tag/1.8.1",
-  "id": 387488814,
+  "url": "https://api.github.com/repos/wemake-services/wemake-python-styleguide/releases/449894251",
+  "assets_url": "https://api.github.com/repos/wemake-services/wemake-python-styleguide/releases/449894251/assets",
+  "upload_url": "https://uploads.github.com/repos/wemake-services/wemake-python-styleguide/releases/449894251/assets{?name,label}",
+  "html_url": "https://github.com/wemake-services/wemake-python-styleguide/releases/tag/1.9.0",
+  "id": 449894251,
   "author": {
     "login": "sobolevn",
     "id": 4660275,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOB20joc4XGJwu",
-  "tag_name": "1.8.1",
+  "node_id": "RE_kwDOB20joc4a0Ndr",
+  "tag_name": "1.9.0",
   "target_commitish": "master",
-  "name": "Version 1.8.1",
+  "name": "Version 1.9.0",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-09-12T07:16:47Z",
-  "updated_at": "2026-09-12T07:20:03Z",
-  "published_at": "2026-09-12T07:18:59Z",
+  "created_at": "2026-11-18T11:30:59Z",
+  "updated_at": "2026-11-18T11:32:50Z",
+  "published_at": "2026-11-18T11:32:50Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/wemake-services/wemake-python-styleguide/tarball/1.8.1",
-  "zipball_url": "https://api.github.com/repos/wemake-services/wemake-python-styleguide/zipball/1.8.1",
-  "body": "## What's Changed\r\n\r\n### Bugfixes\r\n\r\n- Count overused str and bytes separately for `WPS226`, #3782\r\n- Do not count docstrings for `WPS226`, #3803\r\n- Do not count attribute and type alias docstrings for `WPS226`, #3805\r\n- Adds direct links to violations when searching by code, #3790\r\n\r\n### Misc\r\n\r\n- Fixed claude skill definition and metadata, #3780\r\n\r\n## New Contributors\r\n* @TokenStyle made their first contribution in https://github.com/wemake-services/wemake-python-styleguide/pull/3784\r\n* @webdevsamran made their first contribution in https://github.com/wemake-services/wemake-python-styleguide/pull/3794\r\n* @AndreyGatsuk made their first contribution in https://github.com/wemake-services/wemake-python-styleguide/pull/3792\r\n* @vyhuholl made their first contribution in https://github.com/wemake-services/wemake-python-styleguide/pull/3804\r\n\r\n**Full Changelog**: https://github.com/wemake-services/wemake-python-styleguide/compare/1.8.0...1.8.1",
-  "mentions_count": 4
+  "tarball_url": "https://api.github.com/repos/wemake-services/wemake-python-styleguide/tarball/1.9.0",
+  "zipball_url": "https://api.github.com/repos/wemake-services/wemake-python-styleguide/zipball/1.9.0",
+  "body": "## What's Changed\r\n\r\n### Features\r\n\r\n- Adds `WPS484`: forbid strings that look like docstrings\r\n  but document nothing, #3808\r\n- Adds `WPS367`: forbid using ``#:`` comments, #3823\r\n- Adds `yes` to banned names in `WPS110`, #3845\r\n- Extends `WPS617` to support checking `lambda` values assigned\r\n  via tuple unpacking, #3863\r\n- `WPS237` now forbids nested replacement fields\r\n  in format specifiers, like `{value:{spec}}`, #3888\r\n- Disallows `__lazy_modules__` as module metadata, # 3891\r\n\r\n### Bugfixes\r\n\r\n- Fixes `WPS237` reporting single format specifiers\r\n  like `:b`, `:o`, `:d`, `:.2%`, `:.2g`, `:.2E` as too complex, #3888\r\n- Fixes `WPS237` reporting violation on the first string component\r\n  instead of the complex placeholder in implicitly concatenated\r\n  formatted strings, #3874\r\n- Fixes `WPS235`: ignore imports from `typing` and `typing_extensions`, #3824\r\n- Fixes `wps explain`: now we replace RST roles with readable plain text, #3787\r\n- Fixes the MCP server only starting from a repository checkout:\r\n  now it runs with `python -m wemake_python_styleguide.mcp`, #3859\r\n- Fixes the missing `[mcp]` extra hint breaking the MCP stdio protocol:\r\n  now it goes to `stderr`, #3859\r\n- Fixes `WPS221` counting literal parts of f-strings and t-strings one by one:\r\n  now each formatted part (`{...}` placeholder) counts as one\r\n  and all literal parts count as one in total, #3820\r\n\r\n### Misc\r\n\r\n- Bundles the `wps` agent skill inside the Python package\r\n  for Library Skills discovery, #3843\r\n- Adds `typing-extensions` as a direct dependency, #3849\r\n\r\n## New Contributors\r\n* @Tejaraju0 made their first contribution in https://github.com/wemake-services/wemake-python-styleguide/pull/3826\r\n* @bernalalexis-try made their first contribution in https://github.com/wemake-services/wemake-python-styleguide/pull/3822\r\n* @vishaalinimanikandan made their first contribution in https://github.com/wemake-services/wemake-python-styleguide/pull/3837\r\n* @skatromb made their first contribution in https://github.com/wemake-services/wemake-python-styleguide/pull/3845\r\n* @3oFiz4 made their first contribution in https://github.com/wemake-services/wemake-python-styleguide/pull/3882\r\n* @mccalpink made their first contribution in https://github.com/wemake-services/wemake-python-styleguide/pull/3889\r\n* @nibirietz made their first contribution in https://github.com/wemake-services/wemake-python-styleguide/pull/3891\r\n\r\n**Full Changelog**: https://github.com/wemake-services/wemake-python-styleguide/compare/1.8.1...1.9.0",
+  "mentions_count": 7
 }
