@@ -24,6 +24,16 @@ x install wemake-python-styleguide
 | Svg | 85 | 1 | 1 | 2 |
 | Sh | 48 | 17 | 8 | 1 |
 
+## OpenSSF Scorecard 评分
+
+总评分: **6.4 / 10**
+
+评分最低的几项:
+
+- **Packaging** (-1/10) — packaging workflow not detected
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/wemake-services/wemake-python-styleguide>
@@ -37,22 +47,22 @@ x install wemake-python-styleguide
 
 ## 流行度
 
-- **Star**: 2,951 · **Fork**: 441 · **开放 issue**: 1,214 · **贡献者**: 238
+- **Star**: 2,951 · **Fork**: 440 · **开放 issue**: 1,214 · **贡献者**: 238
 
 ## 累计统计
 
-- **发布数**: 72 · **已合并 PR**: 2301 · **开放 PR**: 0 · **已关闭 issue**: 1203 · **开放 issue**: 11 · **提交数**: 3268
+- **发布数**: 72 · **已合并 PR**: 2301 · **开放 PR**: 1 · **已关闭 issue**: 1203 · **开放 issue**: 11 · **提交数**: 3268
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 1 | 28 | 0 | 3 | 1 | 28 |
-| last60d | 2026-09-20 | 1 | 68 | 0 | 9 | 2 | 65 |
-| 90d | 2026-08-21 | 3 | 98 | 0 | 17 | 2 | 95 |
-| last180d | 2026-05-23 | 5 | 203 | 0 | 26 | 4 | 206 |
-| 360d | 2025-11-24 | 9 | 259 | 0 | 44 | 4 | 275 |
-| last720d | 2024-11-29 | 14 | 632 | 0 | 109 | 4 | 684 |
+| 30d | 2026-10-21 | 1 | 28 | 1 | 3 | 1 | 28 |
+| last60d | 2026-09-21 | 1 | 65 | 1 | 9 | 2 | 65 |
+| 90d | 2026-08-22 | 3 | 94 | 1 | 17 | 2 | 95 |
+| last180d | 2026-05-24 | 5 | 202 | 1 | 26 | 4 | 206 |
+| 360d | 2025-11-25 | 9 | 259 | 1 | 44 | 4 | 275 |
+| last720d | 2024-11-30 | 14 | 632 | 1 | 109 | 4 | 682 |
 
 ## 改进这些数据
 
@@ -63,4 +73,4 @@ wemake-python-styleguide 的安装元数据由 [x-cmd/install](https://github.co
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261119.yml` · 2026-11-19T08:11:30Z._
+_数据快照: `data/card/261120.yml` · 2026-11-20T10:25:11Z._
