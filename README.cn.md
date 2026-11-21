@@ -24,16 +24,6 @@ x install wemake-python-styleguide
 | Svg | 85 | 1 | 1 | 2 |
 | Sh | 48 | 17 | 8 | 1 |
 
-## OpenSSF Scorecard 评分
-
-总评分: **6.4 / 10**
-
-评分最低的几项:
-
-- **Packaging** (-1/10) — packaging workflow not detected
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
-
 ## 源代码
 
 - **上游仓库**: <https://github.com/wemake-services/wemake-python-styleguide>
@@ -57,12 +47,12 @@ x install wemake-python-styleguide
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 1 | 28 | 1 | 3 | 1 | 28 |
-| last60d | 2026-09-21 | 1 | 65 | 1 | 9 | 2 | 65 |
-| 90d | 2026-08-22 | 3 | 94 | 1 | 17 | 2 | 95 |
-| last180d | 2026-05-24 | 5 | 202 | 1 | 26 | 4 | 206 |
-| 360d | 2025-11-25 | 9 | 259 | 1 | 44 | 4 | 275 |
-| last720d | 2024-11-30 | 14 | 632 | 1 | 109 | 4 | 682 |
+| 30d | 2026-10-22 | 1 | 28 | 1 | 3 | 1 | 0 |
+| last60d | 2026-09-22 | 1 | 65 | 1 | 9 | 2 | 0 |
+| 90d | 2026-08-23 | 2 | 94 | 1 | 17 | 2 | 0 |
+| last180d | 2026-05-25 | 5 | 199 | 1 | 26 | 4 | 0 |
+| 360d | 2025-11-26 | 9 | 259 | 1 | 44 | 4 | 0 |
+| last720d | 2024-12-01 | 14 | 632 | 1 | 109 | 4 | 682 |
 
 ## 改进这些数据
 
@@ -73,4 +63,4 @@ wemake-python-styleguide 的安装元数据由 [x-cmd/install](https://github.co
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261120.yml` · 2026-11-20T10:25:11Z._
+_数据快照: `data/card/261121.yml` · 2026-11-21T08:23:08Z._
