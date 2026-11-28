@@ -7,7 +7,7 @@ about:
   latestVersion: "1.9.0"
   latestRelease: "1.9.0"
   latestPrerelease: ""
-  collectedAt: 2026-11-27T10:39:10Z
+  collectedAt: 2026-11-28T09:12:48Z
 timeline:
   created: 2018-03-09
   lastCommit: 2026-11-27
@@ -17,7 +17,7 @@ timeline:
 popularity:
   star: 2952
   watcher: 28
-  fork: 440
+  fork: 441
   release: 72
   contributor: 237
   pullRequest: 2677
@@ -30,7 +30,7 @@ language:
 totalBytes: 1376468
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 1
     mergedPR: 22
     openPR: 0
@@ -38,31 +38,31 @@ recent:
     openIssue: 3
     commit: 22
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 1
-    mergedPR: 62
+    mergedPR: 61
     openPR: 0
     closedIssue: 6
     openIssue: 4
     commit: 63
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 2
-    mergedPR: 93
+    mergedPR: 92
     openPR: 0
-    closedIssue: 17
+    closedIssue: 15
     openIssue: 4
     commit: 93
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 5
-    mergedPR: 196
+    mergedPR: 195
     openPR: 0
     closedIssue: 26
     openIssue: 6
     commit: 202
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 9
     mergedPR: 260
     openPR: 0
@@ -70,7 +70,7 @@ recent:
     openIssue: 6
     commit: 276
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 14
     mergedPR: 632
     openPR: 0
@@ -86,7 +86,7 @@ total:
   commit: 3271
 ---
 path: /home/runner/.x-repo/github.com/wemake-services/wemake-python-styleguide
-collectedAt: 2026-11-27T10:39:15Z
+collectedAt: 2026-11-28T09:12:51Z
 loc:
   Python:
     code: 48795
